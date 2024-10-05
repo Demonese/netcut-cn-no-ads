@@ -6,5 +6,5 @@
 
 1. [下载源代码](https://github.com/Demonese/netcut-cn-no-ads/archive/refs/tags/v1.0.0.zip)，并将所有文件解压出来，得到文件夹 `netcut-cn-no-ads-1.0.0`  
 2. 打开浏览器，[进入扩展页面（chrome://extensions）](chrome://extensions)  
-3. 打开“开发人员模式”  
-4. 点击“加载解压缩的扩展”，选择刚才解压的文件夹 `netcut-cn-no-ads-1.0.0`  
+3. 开启“开发者模式”（或者“开发人员模式”）  
+4. 点击“加载已解压的扩展程序”（或者“加载解压缩的扩展”），选择刚才解压的文件夹 `netcut-cn-no-ads-1.0.0`  
