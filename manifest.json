@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "网络剪贴板去广告",
+    "description": "移除网络剪贴板的谷歌广告",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://netcut.cn/*"
+            ],
+            "js": [
+                "remove-ads-stage-1.js"
+            ],
+            "run_at": "document_start"
+        }
+    ]
+}
